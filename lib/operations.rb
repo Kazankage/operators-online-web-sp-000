@@ -3,7 +3,7 @@ if speed >= 60 || speed <= 30
   puts unsafe
 else
   puts safe
-  
+end
 end
 
 
